@@ -10,7 +10,42 @@ To the best of our knowledge, this is the first open and systematically organize
 
 We welcome contributions from the community. If you would like to suggest new papers or improve the taxonomy, please open an issue or submit a pull request. Together, we can build an up-to-date resource that evolves alongside the field.
 
+## Table of Contents
 
+## Review
+- [General](#general)
+- [Genomics](#genomics)
+- [single-cell omics](#single-cell-omics)
+- [Gene expression](#gene-expression)
+- [CRE design](#CRE-design)
+
+### Genomic language models
+- [gLM](#genomic-language-models)
+- [Other](#other-species-gLM)
+
+### Epigenomic models
+- [Supervised](#supervised-plant)
+- [Other](#other-species-epLM)
+
+### Single-cell omics
+- [Single-cell omics](#single-cell-omics)
+
+### Expression
+- [Plant](#plant-gene-expression)
+- [Other](#other-species-expression)
+### Protein & Functional Genomics
+- [Gene Function Prediction / De Novo Gene Discovery](#gene-function-prediction--de-novo-gene-discovery)
+- [CRE engineering/design](#CRE-engineering-and-design)
+- [Protein Engineering/Design](#protein-engineering-and-design)
+
+### Evolution
+- [Phylogenetics](#phylogenetics)
+
+### Resources
+- [Dataset](#dataset)
+
+### Others
+- [Other](#others)
 
 ## Review
 
@@ -80,7 +115,7 @@ Dimitrov, D., Schrod, S., Rohbeck, M. *et al.* *Nat Rev Genet* (2026). https://d
 
 Chau TN, Wang X, McDowell JM, Li S. *Curr Opin Plant Biol*. 2024;82:102666. https://doi.org/10.1016/j.pbi.2024.102666
 
-### gene expression prediction
+### gene expression
 
 **Machine learning methods to model  multicellular complexity and tissue specificity.**
 
@@ -111,7 +146,7 @@ Jan Zrimec, Aleksej Zelezniak, Kristina Gruden. Trends in Plant Science *27*: 12
 Robert J Schmitz, Erich Grotewold, Maike Stam. *The Plant Cell*, 34 (2): 718–741, 2022. https://doi.org/10.1093/plcell/koab281
 
 ## genomic language models
-
+### Plant
 **BOTANIC-0: a series of foundation models for plant genomic data.**
 
 Jean Ogier du Terrail, Tanguy Marchand, Vincent Cabeli, Zhor Khadir, Cyril Véran, Léonard Strouk. *bioRxiv*, 2026. https://doi.org/10.64898/2026.02.23.706817
@@ -152,7 +187,7 @@ G. Benegas, S.S. Batra, & Y.S. Song Proc. Natl. Acad. Sci. U.S.A. 120 (44) e2311
 - The first plant-specific genomic language model
 - Genomic Pre-trained Network (GPN) is designed to learn genome-wide variant effects through unsupervised pretraining on genomic DNA sequences by training on unaligned reference genomes of ***Arabidopsis thaliana* and seven related species within the Brassicales order**.
 
-### other species
+### other species gLM
 
 **Genome modelling and design across all domains of life with Evo 2.** 
 
@@ -178,9 +213,9 @@ Sam Boshar, Benjamin Evans, Ziqi Tang, et al., *bioRxiv*. Dec, 2025. https://doi
 
 - Nucleotide Transformer v3 (NTv3)
 
-## epigenomic models
+## epigenomic models (egLM)
 
-### supervised
+### supervised-plant
 
 **Identification of DNA N6-methyladenine modifications in the rice genome with a fine-tuned large language model.**
 
@@ -216,7 +251,7 @@ Liu, Y., Gao, X., Liu, H. *et al.*  *Nat Commun* **16**, 2477 (2025). https://do
 
 
 
-### other species
+### other species (egLM)
 
 **A sequence-based global map of regulatory activity for deciphering human genetics.**
 
@@ -245,6 +280,7 @@ Yan, H., Mendieta, J.P., Zhang, X. *et al.* *Nat. Plants* **11**, 2050–2071 (2
 -  a comprehensive epigenomic resource for the rice in single-cell resolution covering 126 cell states across nine organs.
 
 ## gene expression prediction
+### Plant gene expression
 
 **DeepWheat: predicting the effects  of genomic variants on gene expression  and regulatory activities across tissues  and varieties in wheat using deep learning.**
 
@@ -294,7 +330,7 @@ Akagi, T., Masuda, K., Kuwada, E., Takeshita, K., Kawakatsu, T., Ariizumi, T., K
 
 J.D. Washburn,M.K. Mejia-Guerra,G. Ramstein,K.A. Kremling,R. Valluru,E.S. Buckler, & H. Wang,  P*roc. Natl. Acad. Sci. U.S.A.* 116 (12) 5542-5549  (2019). https://doi.org/10.1073/pnas.1814551116.
 
-### other species
+### other species gene expression
 
 **Predicting RNA-seq coverage from DNA sequence as a unifying model of gene regulation.**
 
@@ -338,13 +374,8 @@ Zong-Yan Liu,  ProfileAna Berthel,  ProfileEric Czech,  Michelle Stitzer,  Sheng
 
 Merchant, A.T., King, S.H., Nguyen, E. *et al.* *Nature* **649**, 749–758 (2026). https://doi.org/10.1038/s41586-025-09749-7
 
-## directed evolution
 
-
-
-
-
-## CRE engineering/design
+## CRE engineering and design
 
 ### Traditional
 
@@ -406,7 +437,7 @@ Zhou, J., Troyanskaya, O. *Nat Methods* **12**, 931–934 (2015). https://doi.or
 
 
 
-## protein engineering/design
+## protein engineering and design
 
 **Large DNA and protein language models enhance discovery of deleterious mutations in maize.**
 
