@@ -451,12 +451,18 @@ Wang, Y., He, C., Wang, Q. *et al.* *Genome Biol* **26**, 412 (2025). https://do
 
 ## Phylogenetics
 
-Foldseek
+### Software
 
-FoldMason
+**Fast and accurate protein structure search with Foldseek.**
+
+van Kempen, M., Kim, S.S., Tumescheit, C. et al.  *Nat Biotechnol* 42, 243–246 (2024). https://doi.org/10.1038/s41587-023-01773-0
+
+**Multiple protein structure alignment at scale with FoldMason.**
+
+Gilchrist, C. L. M., Mirdita, M., & Steinegger, M. *Science* 391(6784):485-488. http://doi.org/10.1126/science.ads6733
 
 
-
+### Others
 **Structural genomics sheds light on protein functions and remote homologs across the insect tree of life.**
 
 Wu, W., Cui, C., Zhu, Y. *et al.* *Cell Res* (2026). https://doi.org/10.1038/s41422-026-01220-0
