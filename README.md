@@ -471,241 +471,186 @@ Haopeng Yu, Shasha Zhou, Mingyu Huang, Ling Ding, Yuxuan Chen, Yinru Wang, Yingy
 
 ## Dataset
 
-AraENCODE
+### Genome & Variation
 
-http://glab.hzau.edu.cn/AraENCODE
+- RiceVarMap – rice genomic variation database
 
-RiceENCODE
+- Genome Variation Map (GVM) – variation across 29 plants
 
-http://glab.hzau.edu.cn/RiceENCODE/
+- Plant ImputeDB – genotype imputation database
 
-**RiceVarMap: a comprehensive database of rice genomic variations.**
+- CropGS-Hub – genomic selection & GWAS signals
 
-Zhao H, Yao W, Ouyang Y, Yang W, Wang G, Lian X, Xing Y, Chen L, Xie W.  Nucleic Acids Res. 2015;43:D1018-1022.
+- GWAS Atlas – GWAS results across 15 specie
 
-**Delivering artificial intelligence–ready genomics with the Maize Genetics and Genomics Database**
-
-Olivia C Haley , Laura E Tibbs-Cortes , Stephen F Harding , Elly Poretsky , Ethalinda K Cannon , John L Portwood , Jack M Gardiner , Taner Z Sen , Hye-Seon Kim , Margaret R Woodhouse , Carson M Andorf. *Genetics*, iyag005, Jan 2026. https://doi.org/10.1093/genetics/iyag005
-
-- MaizeGDB introduces new functionalities, including zero-shot variant effect scoring derived from biological language models (protein and DNA) and genome browser tracks for visualizing nucleotide conservation (conveying potential functional significance)
-
-**An integrative 3D-genome database for plants.**
-
-Yang, Q., Wu, T., Liu, M., Zhang, X., Sun, X., Feng, D., Lu, Y., Chen, X., Hong, Y., Ma, W., & Zhao, J. (2025).  *Plant communications*, *6*(6), 101346. https://doi.org/10.1016/j.xplc.2025.101346
-
-
-
-PPGR；[https://ngdc.cncb.ac.cn/ppgr/](http://link.zhihu.com/?target=https%3A//ngdc.cncb.ac.cn/ppgr/)
-
-- 多年生植物基因组和调控数据库（收录转录组、转录因子、基因关联、抗性基因、水平转移基因等信息）
-
-Homologous Gene Database (HGD)
-
-Gcorn plant
-
-PhyloPic, animal/plant pictures
-
-CropGF, gene family
-
-PlantExp, 85 plants, 131423 RNA-seq
-
-plant MAP, plant protein complex, PPI
-
-PlantRegMap
-
-GERDH: horticultural plants RNA-seq、 ChIP-seq、 m6A-seq 、DNAme-seq
-
-MethBank, Methylation database
-
-Plant Regulomics, 6 plants
-
-PlantCADB, 600 ATAC-seq 37 species
-
-ChIPHub, 40 species, >10000, ChIP. DAP, ATAC/DNase-seq
-
-PlantcircBase, 21 species 171118 circRNAs
-
-JGI Planet Gene Atlas, >2000 RNA-seq samples from 17 plant
-
-uORFlight, plant uORF
-
-GWAS Atlas, 15 species GWAS
-
-qPTMpalnts, 23 PTM, 429821 sites on 123551 proteins in 43 plants
-
-EU--SAGE, plant gene editing   
-
-CRISPRbase gene editing, Ath rice
-
-JustRNA, plant lncRNA
-
-EupDB, 
-
-The Genome variation Map, 29 plants
-
-PlantPAN 4.0
-
-AGBioData
-
-m6A-Atlas v2.0
-
-P3DB, phos 260 proteomics, 45 species protein phosphorylation
-
-Plant ImputeDB
-
-PlantGSEAv2
-
-Malvaceae
-
-BRAD
-
-ArecaceaeMDB
-
-TCMPG
-
-AraEncode AtMAD
-
-Milletdb
-
-LettuceGDB
-
-SoyOmics
-
-CottonMD
-
-RiceENCODE
-
-CPBD
-
-BnIR
-
-BnaOmics
-
-TPIA2 
-
-MaizeNetome
-
-wGRN
-
-ZEAMAP
-
-MDSi
-
-### Gene regulation
-
+### Gene Regulation
 #### TF and CRE
 
-JASPAR
+- PlantRegMap
 
-https://jaspar.genereg.net/
+- PlantPAN 4.0
 
-PlantPAN
+- PlantTFDB
 
-RegMap
+- AGRIS
 
-GTRD
+- GRASSIUS
 
-ChIPBase
+- JASPAR
 
-PCSD
+- UniBind
 
-PlantTFDB
+- GTRD
 
-AGRIS
+- ChIPBase
 
-GRASSIUS
+- PCSD
 
-UniBind
+- PODC
 
-PODC
+- Rice Regulome Atlas
 
-[Rice Regulome Atlas](https://mbkbase.org/rice/rice_regulome/)
+#### DNA Methylation
+- MethBank
 
-#### Mehtylation
+- ASMdb
 
-ASMdb
+- PRP
 
-MethBank
+- PlantEpigenome (13 plants)
 
-PRP
+- m6A-Atlas v2.0
 
-PlantEpigenome 13 plants
+#### Chromatin Accessibility & Histone
+- PlantCADB – ATAC-seq for 37 species
 
-#### Histone modification and chromatin accessibility
+- ChIP-Hub – ChIP / DAP / ATAC / DNase
 
-WERAM
+- RiceENCODE
 
-RiceENCODE
+- AraENCODE
 
-PlantCADB 37 plants
+- WERAM
 
-### Omics
+### Transcriptomics
+- PlantExp – 131k RNA-seq from 85 plants
 
-TCOD: tropical plants (15)
+- JGI Plant Gene Atlas – >2000 RNA-seq samples
 
-SoyMD, SoyOmics
+- GERDH – RNA-seq / ChIP-seq / m6A / DNAme
 
-PRMD, plant RNA mod (20 plants
+- PEO – plant expression atlas
 
-PlantPAN 4.0: 3428 matrices for plant TFs
+- Expression Atlas
 
-KnockTF 2.0
+- Stress Knowledge Map
 
-- a comprehensive gene expression profile database with knockdown/knockout of transcription (co-)factors in multiple species（有拟南芥和玉米）
+### Multi-omics / Regulomics
 
-CropGS-Hub: genomic selection, GWAS signals
+- Plant Regulomics – 6 plants
 
-Expression Atlas
+- PPGR – Plant Public Genomic Resources
 
-Stress Knowledge Map
+- Plant MAP – plant protein complex & PPI
 
-PEO, plant expression
+- wGRN – gene regulatory network
 
-PPGR
+- MaizeNetome
 
-BnIR
+### Protein & PTM
 
-BnaOmics
+- qPTMplants – 23 PTM types, 43 plants
 
-ChIP-Hub
+- P3DB – phosphorylation database
 
-MPOD
+- MPOD – multi-omics proteomics resource
 
-ArecaceaeMDB
+### Non-coding RNA
 
-ZEAMAP
+- PlantcircBase – circRNA database
 
-CottonMD
+- JustRNA – plant lncRNA
 
-### single-cell
+- uORFlight – plant uORF database
 
-PlantscRNAdb scRNA-seq for 8 species （*Arabidopsis thaliana*,*Oryza sativa*,*Solanum lycopersicum*,*Zea mays*,*Fragaria vesca*,*Populus*,*Nicotiana attenuata*and*Lemna minuta*）
+## Single-cell & Spatial omics
 
-- Chen H, Yin X, Guo L, et al. PlantscRNAdb: a database for plant single-cell RNA analysis[J]. Molecular Plant, 2021, 14(6): 855-857.
+- PlantscRNAdb – scRNA-seq for 8 species
 
-PsctH
+- PsctH – Plant Single Cell Transcriptome Hub
 
-- Xu Z, Wang Q, Zhu X, et al. Plant Single Cell Transcriptome Hub (PsctH): an integrated online tool to explore the plant single‐cell transcriptome landscape[J]. Plant Biotechnology Journal, 2022, 20(1): 10.
+- PCMDB – plant cell marker database
 
-PCMDB
+- scAPAdb – single-cell APA database
 
-- Jin J, Lu P, Xu Y, et al. PCMDB: a curated and comprehensive resource of plant cell markers[J]. Nucleic Acids Research, 2022, 50(D1): D1448-D1455.
+- RCAR – rice root single-cell atlas
 
-scAPAdb Ath, maize, rice
+- PlantPhoneDB – cell–cell communication
 
-- Zhu S, Lian Q, Ye W, et al. scAPAdb: a comprehensive database of alternative polyadenylation at single-cell resolution[J]. Nucleic Acids Research, 2022, 50(D1): D365-D370.
+- SPEED – pan-species single-cell profiles
 
-RCAR rice root single-cell
+- SODB – plant spatial omics database
 
-PlantPhoneDB
+## Gene Family / Evolution
 
-SPEED, pan-species profile, six plants
+- CropGF – crop gene family database
 
-SODB spatial omics data, Ath
+- Homologous Gene Database (HGD)
 
+## Species-specific Databases
+### Rice
 
+- RiceENCODE
 
+- Rice Regulome Atlas
 
+### Maize
+
+- MaizeGDB
+
+- ZEAMAP
+
+### Soybean
+
+- SoyOmics
+
+- SoyMD
+
+### Cotton
+
+- CottonMD
+
+### Brassica
+
+- BRAD
+
+- BnaOmics
+
+- BnIR
+
+### Other crops
+
+- LettuceGDB
+
+- Milletdb
+
+- ArecaceaeMDB
+
+- Malvaceae database
+
+- TCMPG
+
+## Gene Editing
+
+- EU-SAGE – plant gene editing resources
+
+- CRISPRbase – CRISPR editing database
+
+## Other Resources
+
+- PhyloPic – plant/animal illustrations
+
+- AGBioData – agricultural biological databases
 
 ## Others
 
