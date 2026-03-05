@@ -4,7 +4,7 @@ This repository provides a curated collection of research and review papers on *
 
 ## Background
 
-Plant science is entering an era of data-driven discovery — from phenomenology to programmability. Although we recently published a review on deep learning in plant research, the field is evolving too rapidly for any static article to remain comprehensive. New architectures, foundation models, and cross-disciplinary advances are emerging at an unprecedented pace. To address this, we created this repository as a living, community-driven knowledge hub for AI in plant biology. It continuously curates and organizes machine learning advances relevant to plant research, including methods developed beyond the plant domain but adaptable to it.
+Plant science is entering an era of data-driven discovery — from phenomenology to programmability. The field is evolving too rapidly with new architectures, foundation models, and cross-disciplinary advances are emerging at an unprecedented pace. To address this, we created this repository as a living, community-driven knowledge hub for AI in plant biology. It continuously curates and organizes machine learning advances relevant to plant research, including methods developed beyond the plant domain but adaptable to it.
 
 To the best of our knowledge, this is the first open and systematically organized collection of AI research dedicated to plant science. Papers are categorized by biological application and model type to enable structured exploration and interdisciplinary connection. Our vision is to provide an evolving resource that helps researchers navigate, compare, and apply AI approaches in plant biology, fostering transparency, accessibility, and a more connected research ecosystem.
 
