@@ -20,7 +20,7 @@ We welcome contributions from the community. If you would like to suggest new pa
 - [CRE design](#CRE-design)
 
 ### Genomic language models
-- [plant](#plant)
+- [Plant](#plant)
 - [Other](#other-species-gLM)
 
 ### Epigenomic models
@@ -186,6 +186,7 @@ G. Benegas, S.S. Batra, & Y.S. Song Proc. Natl. Acad. Sci. U.S.A. 120 (44) e2311
 
 - The first plant-specific genomic language model
 - Genomic Pre-trained Network (GPN) is designed to learn genome-wide variant effects through unsupervised pretraining on genomic DNA sequences by training on unaligned reference genomes of ***Arabidopsis thaliana* and seven related species within the Brassicales order**.
+- [repo for GPN model](https://github.com/songlab-cal/gpn)
 
 ### other species gLM
 
@@ -287,6 +288,7 @@ Yan, H., Mendieta, J.P., Zhang, X. *et al.* *Nat. Plants* **11**, 2050–2071 (2
 Ma, Z., Zhang, J., Pei, H. *et al.* *Genome Biol* **26**, 321 (2025). [https://doi.org/10.1186/s13059-025-03809-x]
 
 - DeepWheat is a tissue-specific gene expression predictor integrating epigenomic features, which can be used to targeted *cis*-regulatory elements editing and offering a powerful tool for crop functional genomics and breeding.
+- [repo](https://github.com/WheatEpigenomics/DeepWheat)
 
 **Precise engineering of gene expression by editing plasticity.** 
 
@@ -447,7 +449,22 @@ Wang, Y., He, C., Wang, Q. *et al.* *Genome Biol* **26**, 412 (2025). https://do
 
 ### other species
 
+**Rapid **in silic*o* directed evolution by a protein language model with EVOLVEpro.**
+Jiang, K., Yan, Z., Di Bernardo, M., Sgrizzi, S. R., Villiger, L., Kayabolen, A., Kim, B. J., Carscadden, J. K., Hiraizumi, M., Nishimasu, H., Gootenberg, J. S., & Abudayyeh, O. O.  Science, 387(6732), eadr6006 (2025). https://doi.org/10.1126/science.adr6006
 
+**Advancing protein evolution with inverse folding models integrating structural and evolutionary constraints. **
+Fei, H., Li, Y., Liu, Y., Wei, J., Chen, A., & Gao, C. Cell, 188(17), 4674–4692.e19 (2025). https://doi.org/10.1016/j.cell.2025.06.014
+
+**Rapid directed evolution guided by protein language models and epistatic interactions.**
+Tran, V. Q., Nemeth, M., Bartie, L. J., Chandrasekaran, S. S., Fanton, A., Moon, H. C., Hie, B. L., Konermann, S., & Hsu, P. D. Science, eaea1820 (2026). https://doi.org/10.1126/science.aea1820
+
+**Unsupervised evolution of protein and antibody complexes with a structure-informed language model.**
+
+Shanker, V. R., Bruun, T. U. J., Hie, B. L., & Kim, P. S.  Science, 385(6704), 46–53 (2024). https://doi.org/10.1126/science.adk8946
+
+**Efficient evolution of human antibodies from general protein language models.**
+
+Hie, B.L., Shanker, V.R., Xu, D. et al.  Nat Biotechnol 42, 275–283 (2024). https://doi.org/10.1038/s41587-023-01763-2
 
 ## Phylogenetics
 
