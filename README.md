@@ -20,7 +20,7 @@ We welcome contributions from the community. If you would like to suggest new pa
 - [CRE design](#CRE-design)
 
 ### Genomic language models
-- [gLM](#genomic-language-models)
+- [plant](#plant)
 - [Other](#other-species-gLM)
 
 ### Epigenomic models
