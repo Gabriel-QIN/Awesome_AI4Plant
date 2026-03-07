@@ -16,6 +16,7 @@ We welcome contributions from the community. If you would like to suggest new pa
 - [General](#general)
 - [Genomics](#genomics)
 - [single-cell omics](#single-cell-omics)
+- [Network-biology](#Network)
 - [Gene expression](#gene-expression)
 - [CRE design](#CRE-design)
 
@@ -37,6 +38,9 @@ We welcome contributions from the community. If you would like to suggest new pa
 - [Gene Function Prediction / De Novo Gene Discovery](#gene-function-prediction--de-novo-gene-discovery)
 - [CRE engineering/design](#CRE-engineering-and-design)
 - [Protein Engineering/Design](#protein-engineering-and-design)
+
+### Network biology
+- [GRN](#GRN)
 
 ### Evolution
 - [Phylogenetics](#phylogenetics)
@@ -114,6 +118,10 @@ Khan, S.A., Martínez-de-Morentin, X., Alsabbagh, A.R. *et al.* *Nat Methods* **
 Dimitrov, D., Schrod, S., Rohbeck, M. *et al.* *Nat Rev Genet* (2026). https://doi.org/10.1038/s41576-025-00920-4
 
 Chau TN, Wang X, McDowell JM, Li S. *Curr Opin Plant Biol*. 2024;82:102666. https://doi.org/10.1016/j.pbi.2024.102666
+
+### Network
+
+Unlocking gene regulatory networks for crop resilience and sustainable agriculture. Leong, R., He, X., Beijen, B.S. et al. Nat Biotechnol 43, 1254–1265 (2025). https://doi.org/10.1038/s41587-025-02727-4
 
 ### gene expression
 
@@ -254,6 +262,12 @@ Liu, Y., Gao, X., Liu, H. *et al.*  *Nat Commun* **16**, 2477 (2025). https://do
 
 ### other species (egLM)
 
+**Predicting disease-specific histone modifications and functional effects of non-coding variants by leveraging DNA language models.**
+
+Wang, X., Pan, T., Chen, S. et al.  Genome Biol (2026). https://doi.org/10.1186/s13059-026-04003-3
+
+- A disease-specific modification prediction framework using DNA language models and MoE.
+
 **A sequence-based global map of regulatory activity for deciphering human genetics.**
 
 Chen KM, Wong AK, Troyanskaya OG, Zhou J.
@@ -316,9 +330,10 @@ Li T, Xu H, Teng S, Suo M, Bahitwa R, Xu M, et al. *Proc Natl Acad Sci U S A*. 2
 
 **Deep learning the *cis*-regulatory code for gene expression in selected model plants.**
 
-Levy, B., Xu, Z., Zhao, L., Kremling, K., Altman, R., Wong, P. et al. (2022) FloraBERT: cross-species transfer learning with attention-based neural networks for gene expression prediction. Available from: https://doi.org/10.21203/rs.3.rs-1927200/v1
-
 Peleke, F.F., Zumkeller, S.M., Gültas, M., Schmitt, A. & Szymański, J. *Nature Communications*, 15, 3488 (2024). https://doi.org/10.1038/s41467-024-47744-0
+
+**FloraBERT: cross-species transfer learning with attention-based neural networks for gene expression prediction.**
+Levy, B., Xu, Z., Zhao, L., Kremling, K., Altman, R., Wong, P. et al. (2022)  Available from: https://doi.org/10.21203/rs.3.rs-1927200/v1
 
 **DeepCBA: a deep learning framework for gene expression prediction in maize based on DNA sequence and chromatin interaction.**
 
@@ -361,6 +376,8 @@ Zhou, J., Theesfeld, C.L., Yao, K., Chen, K.M., Wong, A.K. & Troyanskaya, O.G. *
 - Expecto
 
 ## gene function prediction / de novo gene discovery
+**Deep learning-based semantic matching of cis-regulatory DNA sequences facilitates the prediction of gene function.**
+Li, T., Xu, H., Suo, M. et al.  Nat. Plants (2026). https://doi.org/10.1038/s41477-026-02231-w
 
 **Harnessing DNA Foundation Models for Cross-Species Transcription Factor Binding Site Prediction in Plant Genomes.**
 
@@ -449,22 +466,68 @@ Wang, Y., He, C., Wang, Q. *et al.* *Genome Biol* **26**, 412 (2025). https://do
 
 ### other species
 
-**Rapid **in silic*o* directed evolution by a protein language model with EVOLVEpro.**
-Jiang, K., Yan, Z., Di Bernardo, M., Sgrizzi, S. R., Villiger, L., Kayabolen, A., Kim, B. J., Carscadden, J. K., Hiraizumi, M., Nishimasu, H., Gootenberg, J. S., & Abudayyeh, O. O.  Science, 387(6732), eadr6006 (2025). https://doi.org/10.1126/science.adr6006
-
-**Advancing protein evolution with inverse folding models integrating structural and evolutionary constraints. **
-Fei, H., Li, Y., Liu, Y., Wei, J., Chen, A., & Gao, C. Cell, 188(17), 4674–4692.e19 (2025). https://doi.org/10.1016/j.cell.2025.06.014
-
 **Rapid directed evolution guided by protein language models and epistatic interactions.**
+
 Tran, V. Q., Nemeth, M., Bartie, L. J., Chandrasekaran, S. S., Fanton, A., Moon, H. C., Hie, B. L., Konermann, S., & Hsu, P. D. Science, eaea1820 (2026). https://doi.org/10.1126/science.aea1820
+- [MULTI-evolve repo](https://github.com/VincentQTran/MULTI-evolve)
+
+**Advancing protein evolution with inverse folding models integrating structural and evolutionary constraints.**
+
+Fei, H., Li, Y., Liu, Y., Wei, J., Chen, A., & Gao, C. Cell, 188(17), 4674–4692.e19 (2025). https://doi.org/10.1016/j.cell.2025.06.014
+- [AiCE repo](https://github.com/ScorpioLea/AiCE)
+
+**Rapid in silico directed evolution by a protein language model with EVOLVEpro.**
+Jiang, K., Yan, Z., Di Bernardo, M., Sgrizzi, S. R., Villiger, L., Kayabolen, A., Kim, B. J., Carscadden, J. K., Hiraizumi, M., Nishimasu, H., Gootenberg, J. S., & Abudayyeh, O. O.  Science, 387(6732), eadr6006 (2025). https://doi.org/10.1126/science.adr6006
+- [EVOLVEpro repo](https://github.com/mat10d/EvolvePro)
+
+**Biophysics-based protein language models for protein engineering.**
+
+Gelman, S., Johnson, B., Freschlin, C.R. et al. Nat Methods 22, 1868–1879 (2025). https://doi.org/10.1038/s41592-025-02776-2
+- [METL repo](https://github.com/gitter-lab/metl)
 
 **Unsupervised evolution of protein and antibody complexes with a structure-informed language model.**
 
 Shanker, V. R., Bruun, T. U. J., Hie, B. L., & Kim, P. S.  Science, 385(6704), 46–53 (2024). https://doi.org/10.1126/science.adk8946
+- [GitHub repo](https://github.com/varun-shanker/structural-evolution)
 
 **Efficient evolution of human antibodies from general protein language models.**
 
 Hie, B.L., Shanker, V.R., Xu, D. et al.  Nat Biotechnol 42, 275–283 (2024). https://doi.org/10.1038/s41587-023-01763-2
+- [GitHub repo](https://github.com/brianhie/efficient-evolution)
+
+## Network biology
+### GRN
+**A wheat integrative regulatory network from large-scale complementary functional datasets enables trait-associated gene discovery for crop improvement.**
+Chen, Yongming et al. Molecular Plant (16): 393-414, (2023). https://doi.org/10.1016/j.molp.2022.12.019
+
+**Integrative inference of transcriptional networks in Arabidopsis yields novel ROS signalling regulators.**
+
+De Clercq, I., Van de Velde, J., Luo, X. et al. Nat. Plants 7, 500–513 (2021). https://doi.org/10.1038/s41477-021-00894-1
+
+**Transcriptional regulatory network reveals key transcription factors for regulating agronomic traits in soybean.**
+
+Jiao, W., Wang, M., Guan, Y. et al.  Genome Biol 25, 313 (2024). https://doi.org/10.1186/s13059-024-03454-w
+
+**MINI-EX: Integrative inference of single-cell gene regulatory networks in plants.**
+
+Camilla Ferrari, Nicolás Manosalva Pérez1, Klaas Vandepoele. Molecular Plant 15(11):1807-1824, 2022 https://doi.org/10.1016/j.molp.2022.10.016
+
+**Exploring the maize transcriptional regulatory landscape through large-scale profiling of transcription factor binding sites.**
+
+Huo, Qiang et al. Molecular Plant, 18(10): (1777-1798). https://doi.org/10.1016/j.molp.2025.08.009
+
+**Organ-level gene-regulatory networks inferred from transcriptomic data reveal context-specific regulation and highlight novel regulators of ripening and ABA-mediated responses in tomato.**
+
+Fernández JD, Navarro-Payá D, Santiago A, et al. Plant Commun. 2025;6(11):101499. https://doi.org/10.1016/j.xplc.2025.101499
+
+**A map of integrated cis-regulatory elements enhances gene-regulatory analysis in maize.**
+
+Staut J, Pérez NM, Ferrando AM, Dissanayake I, Vandepoele K. Plant Commun. 2025;6(7):101376. https://doi.org/10.1016/j.xplc.2025.101376
+
+
+**ctsGRN: Inferring cell type-specific gene regulatory networks in Arabidopsis.**
+
+Yu Jiang, Haolin Yang, Jian Gao, Qi Zhang, Zitai Yue, Xuemei Wei, Junpeng Zhang. bioRxiv, 2025. https://doi.org/10.1101/2025.10.15.682501
 
 ## Phylogenetics
 
