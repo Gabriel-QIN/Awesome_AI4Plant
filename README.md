@@ -300,7 +300,11 @@ Yan, H., Mendieta, J.P., Zhang, X. *et al.* *Nat. Plants* **11**, 2050–2071 (2
 
 ## gene expression prediction
 ### Plant gene expression
-
+**Genomic language models improve cross-species gene expression prediction and accurately capture regulatory variant effects in Brachypodium mutant lines.**
+Behrooz Vahedi Torghabeh, Camous Moslemi, Julie D. Jensen, Stephan Hentrup, Tianyi Li, Xiaqing Yu, Hai Wang, Torben Asp, Guillaume P Ramstein. bioRxiv. 2026. https://doi.org/10.64898/2026.02.27.708524
+- SOTA seuqnce-to-expression prediction method in plants, superior than PhytoExpr (PNAS paper).
+- Using embedding from the PlantCaduceus genomic language model.
+ 
 **DeepWheat: predicting the effects  of genomic variants on gene expression  and regulatory activities across tissues  and varieties in wheat using deep learning.**
 
 Ma, Z., Zhang, J., Pei, H. *et al.* *Genome Biol* **26**, 321 (2025). [https://doi.org/10.1186/s13059-025-03809-x]
