@@ -34,6 +34,7 @@ We welcome contributions from the community. If you would like to suggest new pa
 ### Expression
 - [Plant](#plant-gene-expression)
 - [Other](#other-species-expression)
+
 ### Protein & Functional Genomics
 - [Gene Function Prediction / De Novo Gene Discovery](#gene-function-prediction--de-novo-gene-discovery)
 - [CRE engineering/design](#CRE-engineering-and-design)
@@ -104,6 +105,9 @@ Zhenye Wang, Hao Yuan, Jianbing Yan, Jianxiao Liu. *the Plant Journal*. December
 **Genomic language models: opportunities and challenges.**
 
 Benegas, G., Ye, C., Albors, C., Li, J. C., & Song, Y. S. (2025). *Trends in genetics*, 41(4), 286–302. https://doi.org/10.1016/j.tig.2024.11.013
+
+**From computational models of the splicing code to regulatory mechanisms and therapeutic implications.**
+Capitanchik, C., Wilkins, O.G., Wagner, N. et al. Nat Rev Genet 26, 171–190 (2025). https://doi.org/10.1038/s41576-024-00774-2
 
 ### single-cell omics
 
@@ -462,7 +466,9 @@ Zhou, J., Troyanskaya, O. *Nat Methods* **12**, 931–934 (2015). https://doi.or
 
 Wang, Y., He, C., Wang, Q. *et al.* *Genome Biol* **26**, 412 (2025). https://doi.org/10.1186/s13059-025-03890-2
 
+**Structural insights into insect-selective sodium channel toxins drive AI-enhanced biopesticide design.**
 
+Jiang, H., Gao, R., Xu, H. et al.  Nat Commun (2026). https://doi.org/10.1038/s41467-026-70190-z
 
 ### other species
 
