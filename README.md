@@ -491,6 +491,10 @@ Jiang, K., Yan, Z., Di Bernardo, M., Sgrizzi, S. R., Villiger, L., Kayabolen, A.
 Gelman, S., Johnson, B., Freschlin, C.R. et al. Nat Methods 22, 1868–1879 (2025). https://doi.org/10.1038/s41592-025-02776-2
 - [METL repo](https://github.com/gitter-lab/metl)
 
+**Geometric deep learning of protein–DNA binding specificity.**
+
+Mitra, R., Li, J., Sagendorf, J.M. et al. Nat Methods 21, 1674–1683 (2024). https://doi.org/10.1038/s41592-024-02372-w
+
 **Unsupervised evolution of protein and antibody complexes with a structure-informed language model.**
 
 Shanker, V. R., Bruun, T. U. J., Hie, B. L., & Kim, P. S.  Science, 385(6704), 46–53 (2024). https://doi.org/10.1126/science.adk8946
