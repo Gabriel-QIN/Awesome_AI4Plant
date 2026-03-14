@@ -81,6 +81,9 @@ Liu, J., Zhang, R., Chai, N., Su, L., Zheng, Z., Liu, T., Guo, Z., Ma, Y., Xie, 
 Liyuan Shu, Jiao Tang, Xiaoyu Guan, Daoqiang Zhang, *Briefings in Bioinformatics*, 27 (1), bbaf724. Jan 2026. https://doi.org/10.1093/bib/bbaf724
 
 ### genomics
+**Sharing approaches in predictive genomics across animals, plants and humans. Nat Genet 58, 503–516 (2026).**
+
+Arirangan, S., de Oliveira, L.F., Hasan, M.N. et al.  https://doi.org/10.1038/s41588-025-02491-w
 
 **Wang H, Chen M, Wei X, et al. Computational tools for plant genomics and breeding.** 
 
