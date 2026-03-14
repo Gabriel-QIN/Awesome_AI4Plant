@@ -262,8 +262,6 @@ Liu, Y., Gao, X., Liu, H. *et al.*  *Nat Commun* **16**, 2477 (2025). https://do
 
 - Mazie tissue-specific chromatin profiles.
 
-
-
 ### other species (egLM)
 
 **Predicting disease-specific histone modifications and functional effects of non-coding variants by leveraging DNA language models.**
