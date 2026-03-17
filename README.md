@@ -160,6 +160,11 @@ Jan Zrimec, Aleksej Zelezniak, Kristina Gruden. Trends in Plant Science *27*: 12
 
 Robert J Schmitz, Erich Grotewold, Maike Stam. *The Plant Cell*, 34 (2): 718–741, 2022. https://doi.org/10.1093/plcell/koab281
 
+### Plant function / phylogenetics
+Exploring plant protein functions through structure-based clustering.
+
+Minxiang Yu, Jie Wu, Cuihuan Zhao, Jin-Long Qiu. Trends in Plant Science 30 (10). 2025. https://doi.org/10.1016/j.tplants.2025.03.014
+
 ## genomic language models
 ### Plant
 **BOTANIC-0: a series of foundation models for plant genomic data.**
