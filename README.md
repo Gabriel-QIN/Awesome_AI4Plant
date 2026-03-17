@@ -545,6 +545,9 @@ Staut J, Pérez NM, Ferrando AM, Dissanayake I, Vandepoele K. Plant Commun. 2025
 Yu Jiang, Haolin Yang, Jian Gao, Qi Zhang, Zitai Yue, Xuemei Wei, Junpeng Zhang. bioRxiv, 2025. https://doi.org/10.1101/2025.10.15.682501
 
 ## Phylogenetics
+**Structure-guided discovery of protein functions in plants.**
+
+Jiarong Chen, Yanlei Feng, Yuchan Zhang, Jucan Gao, Jinda Ou, Weiyin Wu, Can Li, Shuyan Song, Li Tai, Mahmudul Hasan Rifat, Delara Akhter, Jianping Hu, Peiqiang Feng, Xing-Xing Shen, Ronghui Pan. *The Plant Cell* 38 (2), 2026, koag022. https://doi.org/10.1093/plcell/koag022
 
 ### Software
 
@@ -564,7 +567,12 @@ Gilchrist, C. L. M., Mirdita, M., & Steinegger, M. *Science* 391(6784):485-488. 
 **Structural genomics sheds light on protein functions and remote homologs across the insect tree of life.**
 
 Wu, W., Cui, C., Zhu, Y. *et al.* *Cell Res* (2026). https://doi.org/10.1038/s41422-026-01220-0
+- insect structural atlas and evolution
 
+**Prediction of eukaryotic cellular complexity in Asgard archaea using structural modelling.**
+
+Köstlbacher, S., van Hooff, J.J.E., Panagiotou, K. et al.  Nat Microbiol 11, 747–758 (2026). https://doi.org/10.1038/s41564-026-02273-y
+- eukaryotic signature proteins (ESPs) in archaea genomes
 
 
 ## Others
