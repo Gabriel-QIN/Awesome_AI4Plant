@@ -84,6 +84,10 @@ Liu, J., Zhang, R., Chai, N., Su, L., Zheng, Z., Liu, T., Guo, Z., Ma, Y., Xie, 
 Liyuan Shu, Jiao Tang, Xiaoyu Guan, Daoqiang Zhang, *Briefings in Bioinformatics*, 27 (1), bbaf724. Jan 2026. https://doi.org/10.1093/bib/bbaf724
 
 ### genomics
+**Toward a multiomics framework for understanding symbiotic nitrogen fixation. **
+
+Shi, Y., Liu, H., Fernie, A. R., Zhang, Y., Yang, W., & Wang, H. (2026). Trends in plant science, S1360-1385(26)00023-3. Advance online publication. https://doi.org/10.1016/j.tplants.2026.01.008
+
 **Sharing approaches in predictive genomics across animals, plants and humans. Nat Genet 58, 503–516 (2026).**
 
 Arirangan, S., de Oliveira, L.F., Hasan, M.N. et al.  https://doi.org/10.1038/s41588-025-02491-w
