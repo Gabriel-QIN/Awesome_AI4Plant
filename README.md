@@ -55,6 +55,9 @@ We welcome contributions from the community. If you would like to suggest new pa
 ## Review
 
 ### general
+**Generalist biological artificial intelligence in modeling the language of life.**
+
+Rao, V.M., Zhang, S., Plosky, B.S. et al. Nat Biotechnol (2026). https://doi.org/10.1038/s41587-026-03064-w
 
 **Large language models in plant biology.**
 
