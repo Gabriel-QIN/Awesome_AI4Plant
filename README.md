@@ -150,6 +150,9 @@ Sealfon, R.S.G., Wong, A.K. & Troyanskaya, O.G. *Nat Rev Mater* **6**, 717–729
 - This is excellent paper timely reviewed the exciting moment brought by ML/DL to model multicllular complexitiy of gene expression, particularly tissue-specific and cell-type-specific expression, and provides an outlook for future studies. As it published on 2021, the reviewed methods are not novel, albeit it can bring a lot of ideas for current studies when reading it.
 
 ### CRE design
+**Mapping cis-regulatory mutations at scale in sorghum enables modulation of gene expression.**
+
+Groover, E.D., Ding, D., Wang, F.Z. et al.  *Nat Biotechnol* (2026). https://doi.org/10.1038/s41587-026-03046-y
 
 **Modelling and design of transcriptional enhancers.**
 
