@@ -496,6 +496,10 @@ Jiang, H., Gao, R., Xu, H. et al.  Nat Commun (2026). https://doi.org/10.1038/s4
 
 ### other species
 
+**Co-designing sequence and structure of functional de novo enzymes with EnzyGen2.**
+
+Zhenqiao Song, Huichong Liu, Yunlong Zhao, Yang Yang, Lei Li. *bioRxiv*. https://doi.org/10.64898/2026.03.02.709205
+
 **Rapid directed evolution guided by protein language models and epistatic interactions.**
 
 Tran, V. Q., Nemeth, M., Bartie, L. J., Chandrasekaran, S. S., Fanton, A., Moon, H. C., Hie, B. L., Konermann, S., & Hsu, P. D. Science, eaea1820 (2026). https://doi.org/10.1126/science.aea1820
