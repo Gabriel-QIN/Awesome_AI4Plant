@@ -55,6 +55,10 @@ We welcome contributions from the community. If you would like to suggest new pa
 ## Review
 
 ### general
+AI-driven protein engineering: A new paradigm for plant trait design. 
+
+Fu, R., Jiang, S., Wu, T., Yin, C., Yan, J., & Wang, X. (2026). *Molecular plan*t, S1674-2052(26)00081-X. https://doi.org/10.1016/j.molp.2026.03.011
+
 **Generalist biological artificial intelligence in modeling the language of life.**
 
 Rao, V.M., Zhang, S., Plosky, B.S. et al. Nat Biotechnol (2026). https://doi.org/10.1038/s41587-026-03064-w
