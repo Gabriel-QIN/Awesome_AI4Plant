@@ -20,7 +20,7 @@ We welcome contributions from the community. If you would like to suggest new pa
 - [Gene expression](#gene-expression)
 - [CRE design](#CRE-design)
 - [Protein design](#Protein-design)
-- 
+
 ### Genomic language models
 - [Plant](#plant)
 - [Other](#other-species-gLM)
