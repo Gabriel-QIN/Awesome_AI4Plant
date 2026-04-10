@@ -28,7 +28,6 @@ We welcome contributions from the community. If you would like to suggest new pa
 ### Epigenomic models
 - [Supervised](#supervised-plant)
 - [Other](#other-species-epLM)
-- 
 ### Single-cell omics
 - [Single-cell omics](#single-cell-omics)
 
@@ -176,7 +175,7 @@ Jan Zrimec, Aleksej Zelezniak, Kristina Gruden. Trends in Plant Science *27*: 12
 Robert J Schmitz, Erich Grotewold, Maike Stam. *The Plant Cell*, 34 (2): 718–741, 2022. https://doi.org/10.1093/plcell/koab281 
 
 ### Protein design
-**How artificial intelligence is  reengineering protein engineering.**
+**How artificial intelligence is reengineering protein engineering.**
 
 Jennifer Listgarten and and Hanlun Jiang. Science. 392(6794):159-166, 2026. https://doi.org/10.1126/science.aec8444
 
