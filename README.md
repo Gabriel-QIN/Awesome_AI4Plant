@@ -172,7 +172,12 @@ Jan Zrimec, Aleksej Zelezniak, Kristina Gruden. Trends in Plant Science *27*: 12
 
 **Cis-regulatory sequences in plants: Their importance, discovery, and future challenges.**
 
-Robert J Schmitz, Erich Grotewold, Maike Stam. *The Plant Cell*, 34 (2): 718–741, 2022. https://doi.org/10.1093/plcell/koab281
+Robert J Schmitz, Erich Grotewold, Maike Stam. *The Plant Cell*, 34 (2): 718–741, 2022. https://doi.org/10.1093/plcell/koab281 
+
+### Protein design
+**How artificial intelligence is  reengineering protein engineering.**
+
+Jennifer Listgarten and and Hanlun Jiang. Science. 392(6794):159-166, 2026. https://doi.org/10.1126/science.aec8444
 
 ### Plant function / phylogenetics
 Exploring plant protein functions through structure-based clustering.
